@@ -1,4 +1,8 @@
 {
   "version": 1,
-  "player_ids": []
+  "player_ids": [
+    "47ac683d3c88bdccc40d7bd72f75c5c445f0392184a9106902ebe1291edee958",
+    "794be9c18dc95ae97edbe65e41b7de81f64bc73518a2c449bdd8b00193b8f323",
+    "4f0220a8bac0253d63627eeffad1a71444bd9203d8fa41467a6d4682459388e0"
+  ]
 }
